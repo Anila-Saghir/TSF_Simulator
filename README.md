@@ -1,4 +1,4 @@
-**Taylor Spatial Frame Simulator**
+Taylor Spatial Frame Simulator**
 
 This is an interactive web-based application for simulating and planning Taylor Spatial Frame corrections.
 
